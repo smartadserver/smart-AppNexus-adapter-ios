@@ -3,8 +3,9 @@ Smart AdServer - AppNexus SDK Adapter for iOS
 
 Introduction
 ------------
-The _Smart Display SDK_ can be used with _AppNexus SDK_ through the _Ad Adapter_ classes provided in this repository.
-Supported Ad Formats are _banners_ and _interstitials_.
+The _Smart Display SDK_ version 7.0.0 and more can be used with _AppNexus SDK_ (tested on version 4.12.0) and more through the _Ad Adapter_ classes provided in this repository.
+
+Supported ad formats are _banners_ and _interstitials_.
 
 Setup
 -----
@@ -20,7 +21,7 @@ Setup
 
 4) Edit the ```ANAdAdapterSmartAdBase.h``` header and replace the default base url with your dedicated base url.
 
-5) You can now create a mediated insertions in _AppNexus_ backend.
+5) You can now create a mediated ad in _AppNexus_ backend.
 
 More infos
 ----------
